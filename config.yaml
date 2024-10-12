@@ -1,0 +1,7 @@
+path: C:\Users\work\data
+train: photo_data
+val: photo_data
+names:
+  0: plane
+  1: helicopter
+  
